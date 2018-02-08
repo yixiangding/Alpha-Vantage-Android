@@ -1,0 +1,3 @@
+# Alpha Vantage Android Application
+## Intro
+- Developed a tabbed Android application providing real-time market data based on Alpha Vantage market API.- Populated real-time contents derived from RESTful APIs using Volley and JavaScriptInterface. Improvedscrolling performance by image caching with Picasso. Implemented preference storage in SharedPreferences.- Customized comparators to enhance ListView. Improved loading speed by stringifying datasets with Gson.
